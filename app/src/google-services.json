@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182386473491",
+    "project_id": "sdkandroid5",
+    "storage_bucket": "sdkandroid5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182386473491:android:a2f95f4d4814dd44095de6",
+        "android_client_info": {
+          "package_name": "com.example.android5demoproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8bbgtsj4lmHm7-AJPEZyPtltp1T9i6SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
